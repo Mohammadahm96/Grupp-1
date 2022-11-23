@@ -103,6 +103,16 @@ namespace WinFormsApp1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Familjebuss {
+            get {
+                object obj = ResourceManager.GetObject("Familjebuss", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap hd_profile_user_round_blue_icon_symbol_transparent_png_11639594354dzabzsbpuv {
             get {
                 object obj = ResourceManager.GetObject("hd-profile-user-round-blue-icon-symbol-transparent-png-11639594354dzabzsbpuv", resourceCulture);
@@ -156,6 +166,36 @@ namespace WinFormsApp1.Properties {
         internal static System.Drawing.Bitmap profile_icon {
             get {
                 object obj = ResourceManager.GetObject("profile icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Sedan {
+            get {
+                object obj = ResourceManager.GetObject("Sedan", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap småbil {
+            get {
+                object obj = ResourceManager.GetObject("småbil", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap SUV {
+            get {
+                object obj = ResourceManager.GetObject("SUV", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

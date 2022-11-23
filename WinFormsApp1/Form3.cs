@@ -10,23 +10,11 @@ using System.Windows.Forms;
 
 namespace WinFormsApp1
 {
-    public partial class Form2 : Form
+    public partial class Form3 : Form
     {
-        public Form2()
+        public Form3()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            new Form3().Show();
-            this.Hide();
-
-        }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-            
         }
     }
 }
