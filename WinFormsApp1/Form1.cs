@@ -44,6 +44,7 @@ namespace WinFormsApp1
                 txtUserName.Clear();
                 txtpassword.Clear();
                 txtUserName.Focus();
+                txtUserName.Focus();
             }
         }
 
